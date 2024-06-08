@@ -1,6 +1,8 @@
 # React Age Calculator
 
-This repository is for the React Age Calculator project.
+This is the react application that calculates how old you are based on your birthdate..
+<br>
+Enhacing the Basic use of State,Components
 
 ## Features
 - Calculate age based on date of birth.
